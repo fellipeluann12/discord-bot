@@ -1,1 +1,1 @@
-# discord-bot utilizando discord.js (módulo node.js) onde facilmente possibilita uma interação com a API do Discord
+# discord-bot utilizando discord.js onde facilmente possibilita uma interação com a API do Discord
